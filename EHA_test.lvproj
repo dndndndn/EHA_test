@@ -65,6 +65,7 @@
 		<Item Name="menu.lvlib" Type="Library" URL="../controls/menu.lvlib"/>
 		<Item Name="update_tab.vi" Type="VI" URL="../controls/update_tab.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
+		<Item Name="曲线簇.ctl" Type="VI" URL="../controls/曲线簇.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
