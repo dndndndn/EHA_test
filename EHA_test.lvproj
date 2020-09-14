@@ -40,6 +40,20 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Acquired Data.ctl" Type="VI" URL="../controls/Acquired Data.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
+			<Item Name="控件 1.ctl" Type="VI" URL="../controls/控件 1.ctl"/>
+			<Item Name="控件 2.ctl" Type="VI" URL="../controls/控件 2.ctl"/>
+			<Item Name="控件 3.ctl" Type="VI" URL="../controls/控件 3.ctl"/>
+			<Item Name="控件 4.ctl" Type="VI" URL="../controls/控件 4.ctl"/>
+			<Item Name="控件 5.ctl" Type="VI" URL="../controls/控件 5.ctl"/>
+			<Item Name="控件 6.ctl" Type="VI" URL="../controls/控件 6.ctl"/>
+			<Item Name="控件 7.ctl" Type="VI" URL="../controls/控件 7.ctl"/>
+			<Item Name="控件 8.ctl" Type="VI" URL="../controls/控件 8.ctl"/>
+			<Item Name="控件 9.ctl" Type="VI" URL="../controls/控件 9.ctl"/>
+			<Item Name="控件簇.ctl" Type="VI" URL="../controls/控件簇.ctl"/>
+			<Item Name="引用簇.ctl" Type="VI" URL="../controls/引用簇.ctl"/>
+			<Item Name="主选项卡枚举常量.ctl" Type="VI" URL="../controls/主选项卡枚举常量.ctl"/>
+			<Item Name="控件 13.ctl" Type="VI" URL="../controls/控件 13.ctl"/>
+			<Item Name="模拟响应UI.ctl" Type="VI" URL="../controls/模拟响应UI.ctl"/>
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
 		</Item>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
@@ -50,20 +64,6 @@
 		<Item Name="配置簇.ctl" Type="VI" URL="../controls/配置簇.ctl"/>
 		<Item Name="menu.lvlib" Type="Library" URL="../controls/menu.lvlib"/>
 		<Item Name="update_tab.vi" Type="VI" URL="../controls/update_tab.vi"/>
-		<Item Name="控件 1.ctl" Type="VI" URL="../controls/控件 1.ctl"/>
-		<Item Name="控件 2.ctl" Type="VI" URL="../controls/控件 2.ctl"/>
-		<Item Name="控件 3.ctl" Type="VI" URL="../controls/控件 3.ctl"/>
-		<Item Name="控件 4.ctl" Type="VI" URL="../controls/控件 4.ctl"/>
-		<Item Name="控件 5.ctl" Type="VI" URL="../controls/控件 5.ctl"/>
-		<Item Name="控件 6.ctl" Type="VI" URL="../controls/控件 6.ctl"/>
-		<Item Name="控件 7.ctl" Type="VI" URL="../controls/控件 7.ctl"/>
-		<Item Name="控件 8.ctl" Type="VI" URL="../controls/控件 8.ctl"/>
-		<Item Name="控件 9.ctl" Type="VI" URL="../controls/控件 9.ctl"/>
-		<Item Name="控件簇.ctl" Type="VI" URL="../controls/控件簇.ctl"/>
-		<Item Name="引用簇.ctl" Type="VI" URL="../controls/引用簇.ctl"/>
-		<Item Name="主选项卡枚举常量.ctl" Type="VI" URL="../controls/主选项卡枚举常量.ctl"/>
-		<Item Name="控件 13.ctl" Type="VI" URL="../controls/控件 13.ctl"/>
-		<Item Name="模拟响应UI.ctl" Type="VI" URL="../controls/模拟响应UI.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
