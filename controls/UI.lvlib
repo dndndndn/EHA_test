@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="find_file_type.vi" Type="VI" URL="../find_file_type.vi"/>
 	<Item Name="Load settings.vi" Type="VI" URL="../Load settings.vi"/>
+	<Item Name="subplot_type.vi" Type="VI" URL="../subplot_type.vi"/>
 	<Item Name="UI_initialize.vi" Type="VI" URL="../UI_initialize.vi"/>
 	<Item Name="update_tab.vi" Type="VI" URL="../update_tab.vi"/>
 </Library>
