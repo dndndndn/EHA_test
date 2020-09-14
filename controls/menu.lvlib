@@ -7,6 +7,7 @@
 	<Item Name="create_project.vi" Type="VI" URL="../create_project.vi"/>
 	<Item Name="create_project_Dialog.vi" Type="VI" URL="../create_project_Dialog.vi"/>
 	<Item Name="create_settings.vi" Type="VI" URL="../create_settings.vi"/>
+	<Item Name="menu_Main.vi" Type="VI" URL="../menu_Main.vi"/>
 	<Item Name="open_project.vi" Type="VI" URL="../open_project.vi"/>
 	<Item Name="open_project_Dialog.vi" Type="VI" URL="../open_project_Dialog.vi"/>
 	<Item Name="update_tree.vi" Type="VI" URL="../update_tree.vi"/>
