@@ -11,6 +11,7 @@
 	<Item Name="new_curve.vi" Type="VI" URL="../new_curve.vi"/>
 	<Item Name="new_plot.vi" Type="VI" URL="../new_plot.vi"/>
 	<Item Name="new_subplot.vi" Type="VI" URL="../new_subplot.vi"/>
+	<Item Name="reset_button.vi" Type="VI" URL="../reset_button.vi"/>
 	<Item Name="subplot_type.vi" Type="VI" URL="../subplot_type.vi"/>
 	<Item Name="UI_initialize.vi" Type="VI" URL="../UI_initialize.vi"/>
 	<Item Name="update_tab.vi" Type="VI" URL="../update_tab.vi"/>
