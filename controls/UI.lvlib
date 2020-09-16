@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="add_curve.vi" Type="VI" URL="../add_curve.vi"/>
 	<Item Name="delete_plot.vi" Type="VI" URL="../delete_plot.vi"/>
 	<Item Name="display_style.vi" Type="VI" URL="../display_style.vi"/>
 	<Item Name="find_file_type.vi" Type="VI" URL="../find_file_type.vi"/>
