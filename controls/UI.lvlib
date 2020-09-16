@@ -5,6 +5,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="add_curve.vi" Type="VI" URL="../add_curve.vi"/>
+	<Item Name="clear_curve.vi" Type="VI" URL="../clear_curve.vi"/>
+	<Item Name="config_curve.vi" Type="VI" URL="../config_curve.vi"/>
+	<Item Name="delete_curve.vi" Type="VI" URL="../delete_curve.vi"/>
 	<Item Name="delete_plot.vi" Type="VI" URL="../delete_plot.vi"/>
 	<Item Name="display_style.vi" Type="VI" URL="../display_style.vi"/>
 	<Item Name="find_file_type.vi" Type="VI" URL="../find_file_type.vi"/>
@@ -13,6 +16,7 @@
 	<Item Name="new_curve.vi" Type="VI" URL="../new_curve.vi"/>
 	<Item Name="new_plot.vi" Type="VI" URL="../new_plot.vi"/>
 	<Item Name="new_subplot.vi" Type="VI" URL="../new_subplot.vi"/>
+	<Item Name="plot_init.vi" Type="VI" URL="../plot_init.vi"/>
 	<Item Name="reset_button.vi" Type="VI" URL="../reset_button.vi"/>
 	<Item Name="save_setting.vi" Type="VI" URL="../save_setting.vi"/>
 	<Item Name="subplot_type.vi" Type="VI" URL="../subplot_type.vi"/>
