@@ -68,6 +68,8 @@
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
 		<Item Name="波形图.ctl" Type="VI" URL="../controls/波形图.ctl"/>
 		<Item Name="子图.ctl" Type="VI" URL="../controls/子图.ctl"/>
+		<Item Name="组件常量.ctl" Type="VI" URL="../controls/组件常量.ctl"/>
+		<Item Name="滤波器常量.ctl" Type="VI" URL="../controls/滤波器常量.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
