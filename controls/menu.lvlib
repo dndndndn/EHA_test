@@ -4,11 +4,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="close_project.vi" Type="VI" URL="../close_project.vi"/>
 	<Item Name="create_project.vi" Type="VI" URL="../create_project.vi"/>
 	<Item Name="create_project_Dialog.vi" Type="VI" URL="../create_project_Dialog.vi"/>
 	<Item Name="create_settings.vi" Type="VI" URL="../create_settings.vi"/>
 	<Item Name="menu_Main.vi" Type="VI" URL="../menu_Main.vi"/>
 	<Item Name="open_project.vi" Type="VI" URL="../open_project.vi"/>
 	<Item Name="open_project_Dialog.vi" Type="VI" URL="../open_project_Dialog.vi"/>
+	<Item Name="save_project.vi" Type="VI" URL="../save_project.vi"/>
 	<Item Name="update_tree.vi" Type="VI" URL="../update_tree.vi"/>
 </Library>

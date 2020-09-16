@@ -66,7 +66,6 @@
 		<Item Name="UI.lvlib" Type="Library" URL="../controls/UI.lvlib"/>
 		<Item Name="menu.lvlib" Type="Library" URL="../controls/menu.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
-		<Item Name="quick.vi" Type="VI" URL="../controls/quick.vi"/>
 		<Item Name="波形图.ctl" Type="VI" URL="../controls/波形图.ctl"/>
 		<Item Name="子图.ctl" Type="VI" URL="../controls/子图.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">

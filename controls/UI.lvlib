@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="delete_plot.vi" Type="VI" URL="../delete_plot.vi"/>
 	<Item Name="display_style.vi" Type="VI" URL="../display_style.vi"/>
 	<Item Name="find_file_type.vi" Type="VI" URL="../find_file_type.vi"/>
 	<Item Name="Load settings.vi" Type="VI" URL="../Load settings.vi"/>
@@ -13,6 +14,8 @@
 	<Item Name="new_subplot.vi" Type="VI" URL="../new_subplot.vi"/>
 	<Item Name="reset_button.vi" Type="VI" URL="../reset_button.vi"/>
 	<Item Name="subplot_type.vi" Type="VI" URL="../subplot_type.vi"/>
+	<Item Name="switch_curve.vi" Type="VI" URL="../switch_curve.vi"/>
+	<Item Name="tab_menu.vi" Type="VI" URL="../tab_menu.vi"/>
 	<Item Name="UI_initialize.vi" Type="VI" URL="../UI_initialize.vi"/>
 	<Item Name="update_tab.vi" Type="VI" URL="../update_tab.vi"/>
 </Library>
