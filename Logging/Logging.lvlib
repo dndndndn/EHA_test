@@ -9,7 +9,7 @@
 
 </Property>
 	<Item Name="support" Type="Folder">
-		<Item Name="Logging Configuration.ctl" Type="VI" URL="../Logging Configuration.ctl"/>
+		<Item Name="数据记录配置.ctl" Type="VI" URL="../数据记录配置.ctl"/>
 		<Item Name="Logging State.ctl" Type="VI" URL="../Logging State.ctl"/>
 	</Item>
 	<Item Name="Logging Message Loop.vi" Type="VI" URL="../Logging Message Loop.vi"/>

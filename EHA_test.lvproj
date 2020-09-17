@@ -73,6 +73,7 @@
 		<Item Name="data_selector.vi" Type="VI" URL="../controls/data_selector.vi"/>
 		<Item Name="sub_selector.vi" Type="VI" URL="../controls/sub_selector.vi"/>
 		<Item Name="全局配置.vi" Type="VI" URL="../controls/全局配置.vi"/>
+		<Item Name="reload_data_from_file.vi" Type="VI" URL="../controls/reload_data_from_file.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>

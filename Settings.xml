@@ -3,7 +3,7 @@
 <Version>18.0</Version>
 <Cluster>
 <Name>配置</Name>
-<NumElts>12</NumElts>
+<NumElts>11</NumElts>
 <Cluster>
 <Name>当前项目UI</Name>
 <NumElts>24</NumElts>
@@ -453,10 +453,10 @@
 </Cluster>
 <Cluster>
 <Name>数据记录UI</Name>
-<NumElts>9</NumElts>
+<NumElts>10</NumElts>
 <Path>
 <Name>保存路径</Name>
-<Val></Val>
+<Val>C:\Users\fanwenhu\Documents\LabVIEW Data\EHA-test\实验结果\实验1.tdms</Val>
 </Path>
 <String>
 <Name>文件命名设置</Name>
@@ -490,6 +490,11 @@
 <Name>路径</Name>
 <Val></Val>
 </Path>
+<Refnum>
+<Name>TDMS文件引用</Name>
+<RefKind>TDMS File</RefKind>
+<Val>0x00000000</Val>
+</Refnum>
 </Cluster>
 <Cluster>
 <Name>控制参数UI</Name>
@@ -772,19 +777,6 @@
 <Choice>Square with Noise</Choice>
 <Val>0</Val>
 </EW>
-</Cluster>
-<Cluster>
-<Name>记录配置</Name>
-<NumElts>2</NumElts>
-<Path>
-<Name>记录文件基路径</Name>
-<Val>C:\Users\fanwenhu\Documents\LabVIEW Data\Logged Data.tdms</Val>
-</Path>
-<Refnum>
-<Name>TDMS文件引用</Name>
-<RefKind>TDMS File</RefKind>
-<Val>0x00000000</Val>
-</Refnum>
 </Cluster>
 <Cluster>
 <Name>数据显示配置</Name>
