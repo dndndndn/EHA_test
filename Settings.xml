@@ -456,7 +456,7 @@
 <NumElts>10</NumElts>
 <Path>
 <Name>保存路径</Name>
-<Val>C:\Users\fanwenhu\Documents\LabVIEW Data\EHA-test\实验结果\实验1.tdms</Val>
+<Val>C:\Users\fanwenhu\Documents\LabVIEW Data\EHA-test\实验结果</Val>
 </Path>
 <String>
 <Name>文件命名设置</Name>
