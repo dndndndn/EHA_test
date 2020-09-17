@@ -53,7 +53,7 @@
 			<Item Name="引用簇.ctl" Type="VI" URL="../controls/引用簇.ctl"/>
 			<Item Name="主选项卡枚举常量.ctl" Type="VI" URL="../controls/主选项卡枚举常量.ctl"/>
 			<Item Name="控件 13.ctl" Type="VI" URL="../controls/控件 13.ctl"/>
-			<Item Name="模拟响应UI.ctl" Type="VI" URL="../controls/模拟响应UI.ctl"/>
+			<Item Name="EHA模拟UI.ctl" Type="VI" URL="../controls/EHA模拟UI.ctl"/>
 			<Item Name="曲线簇.ctl" Type="VI" URL="../controls/曲线簇.ctl"/>
 			<Item Name="波形图簇.ctl" Type="VI" URL="../controls/波形图簇.ctl"/>
 			<Item Name="配置簇.ctl" Type="VI" URL="../controls/配置簇.ctl"/>
@@ -72,6 +72,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
 		<Item Name="data_selector.vi" Type="VI" URL="../controls/data_selector.vi"/>
 		<Item Name="sub_selector.vi" Type="VI" URL="../controls/sub_selector.vi"/>
+		<Item Name="全局配置.vi" Type="VI" URL="../controls/全局配置.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
