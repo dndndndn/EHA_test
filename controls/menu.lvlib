@@ -8,9 +8,12 @@
 	<Item Name="create_project.vi" Type="VI" URL="../create_project.vi"/>
 	<Item Name="create_project_Dialog.vi" Type="VI" URL="../create_project_Dialog.vi"/>
 	<Item Name="create_settings.vi" Type="VI" URL="../create_settings.vi"/>
+	<Item Name="load_tree.vi" Type="VI" URL="../load_tree.vi"/>
 	<Item Name="menu_Main.vi" Type="VI" URL="../menu_Main.vi"/>
 	<Item Name="open_project.vi" Type="VI" URL="../open_project.vi"/>
 	<Item Name="open_project_Dialog.vi" Type="VI" URL="../open_project_Dialog.vi"/>
+	<Item Name="recreate_default_settings.vi" Type="VI" URL="../recreate_default_settings.vi"/>
 	<Item Name="save_project.vi" Type="VI" URL="../save_project.vi"/>
+	<Item Name="save_to_default.vi" Type="VI" URL="../save_to_default.vi"/>
 	<Item Name="update_tree.vi" Type="VI" URL="../update_tree.vi"/>
 </Library>
