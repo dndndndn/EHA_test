@@ -17,6 +17,7 @@
 	<Item Name="new_plot.vi" Type="VI" URL="../new_plot.vi"/>
 	<Item Name="new_subplot.vi" Type="VI" URL="../new_subplot.vi"/>
 	<Item Name="plot_init.vi" Type="VI" URL="../plot_init.vi"/>
+	<Item Name="reload_data_from_file.vi" Type="VI" URL="../reload_data_from_file.vi"/>
 	<Item Name="reset_button.vi" Type="VI" URL="../reset_button.vi"/>
 	<Item Name="save_setting.vi" Type="VI" URL="../save_setting.vi"/>
 	<Item Name="subplot_type.vi" Type="VI" URL="../subplot_type.vi"/>
