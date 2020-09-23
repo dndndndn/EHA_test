@@ -75,6 +75,7 @@
 		<Item Name="全局配置.vi" Type="VI" URL="../controls/全局配置.vi"/>
 		<Item Name="reload_data_from_default.vi" Type="VI" URL="../controls/reload_data_from_default.vi"/>
 		<Item Name="reload_display_settings.vi" Type="VI" URL="../controls/reload_display_settings.vi"/>
+		<Item Name="ControlCan.lvlib" Type="Library" URL="../ControlCan.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -142,7 +143,11 @@
 				<Item Name="Create File with Incrementing Suffix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Create File with Incrementing Suffix.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="ControlCAN.lvlib" Type="Library" URL="/D/学校文件/labview/labview资料/labview资料/FPGA_CAN_LABVIEW/CAN分析仪资料20190413/二次开发示例源代码/LabVIEW Example(8.6)/ControlCAN/ControlCAN.lvlib"/>
+			<Item Name="DevType.ctl" Type="VI" URL="/D/学校文件/labview/labview资料/labview资料/FPGA_CAN_LABVIEW/CAN分析仪资料20190413/二次开发示例源代码/LabVIEW Example(8.6)/ControlCAN/ControlCAN.llb/DevType.ctl"/>
+			<Item Name="CAN Channel.ctl" Type="VI" URL="/D/学校文件/labview/labview资料/labview资料/FPGA_CAN_LABVIEW/CAN分析仪资料20190413/二次开发示例源代码/LabVIEW Example(8.6)/ControlCAN/ControlCAN.llb/CAN Channel.ctl"/>
+			<Item Name="InitFlag.ctl" Type="VI" URL="/D/学校文件/labview/labview资料/labview资料/FPGA_CAN_LABVIEW/CAN分析仪资料20190413/二次开发示例源代码/LabVIEW Example(8.6)/ControlCAN/ControlCAN.llb/InitFlag.ctl"/>
+			<Item Name="Mode.ctl" Type="VI" URL="/D/学校文件/labview/labview资料/labview资料/FPGA_CAN_LABVIEW/CAN分析仪资料20190413/二次开发示例源代码/LabVIEW Example(8.6)/ControlCAN/ControlCAN.llb/Mode.ctl"/>
+			<Item Name="Fliter.ctl" Type="VI" URL="/D/学校文件/labview/labview资料/labview资料/FPGA_CAN_LABVIEW/CAN分析仪资料20190413/二次开发示例源代码/LabVIEW Example(8.6)/ControlCAN/ControlCAN.llb/Fliter.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
