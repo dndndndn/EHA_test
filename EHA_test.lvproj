@@ -70,11 +70,6 @@
 		<Item Name="UI.lvlib" Type="Library" URL="../controls/UI.lvlib"/>
 		<Item Name="menu.lvlib" Type="Library" URL="../controls/menu.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
-		<Item Name="data_selector.vi" Type="VI" URL="../controls/data_selector.vi"/>
-		<Item Name="sub_selector.vi" Type="VI" URL="../controls/sub_selector.vi"/>
-		<Item Name="全局配置.vi" Type="VI" URL="../controls/全局配置.vi"/>
-		<Item Name="reload_data_from_default.vi" Type="VI" URL="../controls/reload_data_from_default.vi"/>
-		<Item Name="reload_display_settings.vi" Type="VI" URL="../controls/reload_display_settings.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>

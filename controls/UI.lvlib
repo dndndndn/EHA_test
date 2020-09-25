@@ -5,8 +5,12 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="add_curve.vi" Type="VI" URL="../add_curve.vi"/>
+	<Item Name="CAN_settings.vi" Type="VI" URL="../../CAN_settings.vi"/>
+	<Item Name="CAN_update.vi" Type="VI" URL="../../CAN_update.vi"/>
+	<Item Name="canstatus.ctl" Type="VI" URL="../canstatus.ctl"/>
 	<Item Name="clear_curve.vi" Type="VI" URL="../clear_curve.vi"/>
 	<Item Name="config_curve.vi" Type="VI" URL="../config_curve.vi"/>
+	<Item Name="data_selector.vi" Type="VI" URL="../data_selector.vi"/>
 	<Item Name="delete_curve.vi" Type="VI" URL="../delete_curve.vi"/>
 	<Item Name="delete_plot.vi" Type="VI" URL="../delete_plot.vi"/>
 	<Item Name="display_style.vi" Type="VI" URL="../display_style.vi"/>
@@ -17,12 +21,17 @@
 	<Item Name="new_plot.vi" Type="VI" URL="../new_plot.vi"/>
 	<Item Name="new_subplot.vi" Type="VI" URL="../new_subplot.vi"/>
 	<Item Name="plot_init.vi" Type="VI" URL="../plot_init.vi"/>
+	<Item Name="reload_data_from_default.vi" Type="VI" URL="../reload_data_from_default.vi"/>
 	<Item Name="reload_data_from_file.vi" Type="VI" URL="../reload_data_from_file.vi"/>
+	<Item Name="reload_display_settings.vi" Type="VI" URL="../reload_display_settings.vi"/>
 	<Item Name="reset_button.vi" Type="VI" URL="../reset_button.vi"/>
 	<Item Name="save_setting.vi" Type="VI" URL="../save_setting.vi"/>
+	<Item Name="sub_selector.vi" Type="VI" URL="../sub_selector.vi"/>
 	<Item Name="subplot_type.vi" Type="VI" URL="../subplot_type.vi"/>
 	<Item Name="switch_curve.vi" Type="VI" URL="../switch_curve.vi"/>
 	<Item Name="tab_menu.vi" Type="VI" URL="../tab_menu.vi"/>
 	<Item Name="UI_initialize.vi" Type="VI" URL="../UI_initialize.vi"/>
 	<Item Name="update_tab.vi" Type="VI" URL="../update_tab.vi"/>
+	<Item Name="串口通信配置.ctl" Type="VI" URL="../串口通信配置.ctl"/>
+	<Item Name="全局配置.vi" Type="VI" URL="../全局配置.vi"/>
 </Library>
