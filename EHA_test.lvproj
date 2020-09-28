@@ -70,6 +70,7 @@
 		<Item Name="UI.lvlib" Type="Library" URL="../controls/UI.lvlib"/>
 		<Item Name="menu.lvlib" Type="Library" URL="../controls/menu.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
+		<Item Name="listen_can.vi" Type="VI" URL="../Acquisition/listen_can.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -140,6 +141,8 @@
 			<Item Name="can库.lvlib" Type="Library" URL="../../../../Documents/LabVIEW Data/can库.lvlib"/>
 			<Item Name="Demo_MakeDispBuff.vi" Type="VI" URL="/D/学校文件/labview/can/CAN分析仪资料20200101/CAN分析仪资料20200101/二次开发示例源代码/LabVIEW Example(8.6)/Demo/Demo_MakeDispBuff.vi"/>
 			<Item Name="Demo_UpdateList.vi" Type="VI" URL="/D/学校文件/labview/can/CAN分析仪资料20200101/CAN分析仪资料20200101/二次开发示例源代码/LabVIEW Example(8.6)/Demo/Demo_UpdateList.vi"/>
+			<Item Name="Demo_GetT0T1.vi" Type="VI" URL="/D/学校文件/labview/can/CAN分析仪资料20200101/CAN分析仪资料20200101/二次开发示例源代码/LabVIEW Example(8.6)/Demo/Demo_GetT0T1.vi"/>
+			<Item Name="Demo_MakeData.vi" Type="VI" URL="/D/学校文件/labview/can/CAN分析仪资料20200101/CAN分析仪资料20200101/二次开发示例源代码/LabVIEW Example(8.6)/Demo/Demo_MakeData.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
