@@ -71,6 +71,7 @@
 		<Item Name="menu.lvlib" Type="Library" URL="../controls/menu.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../../未命名项目2/Main.vi"/>
 		<Item Name="listen_can.vi" Type="VI" URL="../Acquisition/listen_can.vi"/>
+		<Item Name="Main_1.vi" Type="VI" URL="../../未命名项目2/Main_1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
